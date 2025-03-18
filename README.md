@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Introduction - Saksham Deep</title>
     <style>
-        body {
+         body {
             font-family: 'Poppins', sans-serif;
             margin: 0;
             padding: 0;
@@ -80,6 +80,5 @@
             <button class="btn">Know More</button>
         </div>
     </div>
-
 </body>
 </html>
