@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Introduction - Saksham Deep</title>
+    
     <style>
-        /* General Styles */
+        
         body {
             font-family: 'Poppins', sans-serif;
             margin: 0;
@@ -16,9 +17,11 @@
             justify-content: center;
             height: 100vh;
         }
+        
         .container {
             text-align: center;
         }
+        
         .card {
             background: white;
             padding: 30px;
@@ -26,30 +29,37 @@
             box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
             transition: 0.3s ease-in-out;
         }
+        
         .card:hover {
             transform: scale(1.05);
         }
+        
         h1 {
             color: #d63333;
         }
+        
         p {
             font-size: 18px;
             color: #333;
             margin: 10px 0;
         }
+        
         .highlight {
             color: #d63333;
             font-weight: bold;
         }
+        
         .animated-text {
             font-size: 22px;
             font-weight: bold;
             animation: fadeIn 1.5s infinite alternate;
         }
+        
         @keyframes fadeIn {
             0% { opacity: 0.5; }
             100% { opacity: 1; }
         }
+        
         .btn {
             background: #d63333;
             color: white;
@@ -60,12 +70,17 @@
             font-size: 18px;
             transition: 0.3s ease;
         }
+        
         .btn:hover {
             background: #a32424;
         }
+        
     </style>
+    
 </head>
+
 <body>
+    
     <div class="container">
         <div class="card">
             <h1>Welcome to My Page!</h1>
@@ -76,6 +91,7 @@
             <button class="btn">Know More</button>
         </div>
     </div>
+    
 </body>
 </html>
 
