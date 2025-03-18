@@ -3,12 +3,12 @@
     
 <head>
     
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>Introduction - Saksham Deep</title>
+<title>Introduction - Saksham Deep</title>
     
-    <style>
+<style>
         
         body {
             font-family: 'Poppins', sans-serif;
@@ -78,13 +78,11 @@
             background: #a32424;
         }
         
-    </style>
-    
+</style>
 </head>
-
 <body>
     
-    <div class="container">
+<div class="container">
         <div class="card">
             <h1>Welcome to My Page!</h1>
             <p class="animated-text">Hi, I'm <span class="highlight">Saksham Deep</span></p>
