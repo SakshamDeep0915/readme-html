@@ -1,4 +1,3 @@
-
 <html>
     
 <head>
@@ -11,7 +10,6 @@
 </title>
     
 <style>
-        
         body {
             font-family: 'Poppins', sans-serif;
             margin: 0;
@@ -93,8 +91,7 @@
             <p>🎯 Goal: Build impactful software solutions</p>
             <button class="btn">Know More</button>
         </div>
-    </div>
+</div>
     
 </body>
 </html>
-
