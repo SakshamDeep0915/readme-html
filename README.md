@@ -1,15 +1,11 @@
-<html>
-    
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction - Saksham Deep</title>
     
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-<title> 
-    Introduction - Saksham Deep
-</title>
-    
-<style>
+    <style>
         body {
             font-family: 'Poppins', sans-serif;
             margin: 0;
@@ -22,7 +18,10 @@
         }
         
         .container {
-            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
         }
         
         .card {
@@ -31,6 +30,8 @@
             border-radius: 10px;
             box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
             transition: 0.3s ease-in-out;
+            text-align: center;
+            max-width: 400px;
         }
         
         .card:hover {
@@ -78,11 +79,11 @@
             background: #a32424;
         }
         
-</style>
+    </style>
 </head>
 <body>
-    
-<div class="container">
+
+    <div class="container">
         <div class="card">
             <h1>Welcome to My Page!</h1>
             <p class="animated-text">Hi, I'm <span class="highlight">Saksham Deep</span></p>
@@ -91,7 +92,7 @@
             <p>🎯 Goal: Build impactful software solutions</p>
             <button class="btn">Know More</button>
         </div>
-</div>
-    
+    </div>
+
 </body>
 </html>
