@@ -16,13 +16,9 @@
             justify-content: center;
             height: 100vh;
         }
-
-        /* Centered Container */
         .container {
             text-align: center;
         }
-
-        /* Intro Card */
         .card {
             background: white;
             padding: 30px;
@@ -30,41 +26,30 @@
             box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
             transition: 0.3s ease-in-out;
         }
-
         .card:hover {
             transform: scale(1.05);
         }
-
-        /* Text Styling */
         h1 {
             color: #d63333;
         }
-
         p {
             font-size: 18px;
             color: #333;
             margin: 10px 0;
         }
-
-        /* Highlighted Text */
         .highlight {
             color: #d63333;
             font-weight: bold;
         }
-
-        /* Animated Text */
         .animated-text {
             font-size: 22px;
             font-weight: bold;
             animation: fadeIn 1.5s infinite alternate;
         }
-
         @keyframes fadeIn {
             0% { opacity: 0.5; }
             100% { opacity: 1; }
         }
-
-        /* Button */
         .btn {
             background: #d63333;
             color: white;
@@ -75,7 +60,6 @@
             font-size: 18px;
             transition: 0.3s ease;
         }
-
         .btn:hover {
             background: #a32424;
         }
